@@ -12,3 +12,5 @@ The content of the book is at ./fedapp/src.
 - To modify an exsiting page, you directly change the corresponding markdown file.
 
 To update the book, you simply push the change to git. After about 10 seconds, you should see the update on http://dku-vcm-2630.vm.duke.edu:8006/ .
+
+Let me know asap if the book is not updated.
